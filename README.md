@@ -7,10 +7,10 @@
 
 ---
 **Вторая часть** предствлена в каталоге src:  
-	Базовые слова языка и основные команды для работы Forth - [dictionary.inc](./src/dictionary.inc) 	;   
-	[macro.inc](./src/macro.inc) - обеспечивает переиспользование кода, используется для создания новых слов   ;
-	[lib.asm](./src/lib.asm) - часть ядра Forth	;
-	[forthress.asm](./src/forthress.asm) - испольуется для иницализации программы	.
+	Базовые слова языка и основные команды для работы Forth - [dictionary.inc](./src/dictionary.inc);  
+	[macro.inc](./src/macro.inc) - обеспечивает переиспользование кода, используется для создания новых слов;  
+	[lib.asm](./src/lib.asm) - часть ядра Forth;  
+	[forthress.asm](./src/forthress.asm) - испольуется для иницализации программы.  
 ---
 
 **Преподователь:** [Жирков Игорь Олегович](https://github.com/sayon) 
